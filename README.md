@@ -1,3 +1,5 @@
+<h1 align="center">Hi I'm Aurélien Vincent--Randonnier</h1>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurelien-vr&layout=compact&theme=github_dark)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
